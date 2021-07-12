@@ -18,3 +18,5 @@ This is Imtiaz. I am a Computer Information Systems graduate with technical expo
 microservices framework etc. I am enthusiastic about gaining knowledge, experience, and improving my skills. I believe in lifelong 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Node.js, Python, Java, Git etc.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiaz-ahmed247/) 
+
+For more information about me, check out [Imtiaz Ahmed](https://www.imtiazahmed.website/)
