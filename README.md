@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 I am a Computer Information Systems graduate with technical exposure in cloud computing, SaaS, Web development, and
 microservices framework seeking an entry level position to enhance analytical and problem-solving skills.
+
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Node.js, Python etc.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiaz-ahmed247/) 
