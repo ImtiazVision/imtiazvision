@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am enthusiastic about gaining knowledge, experience, and improving my skills. I believe in lifelong 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Node.js, Python etc.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Node.js, Python, Java, Git etc.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiaz-ahmed247/) 
