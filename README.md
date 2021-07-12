@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Imtiaz 👨‍💻
 
 <!--
 **ImtiazVision/imtiazvision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is Imtiaz. I am a Computer Information Systems graduate with technical exposure in cloud computing, SaaS, Web development, and
+I am a Computer Information Systems graduate with technical exposure in cloud computing, SaaS, Web development, and
 microservices framework etc. I am enthusiastic about gaining knowledge, experience, and improving my skills. I believe in lifelong 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Node.js, Python, Java, Git etc.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiaz-ahmed247/) 
