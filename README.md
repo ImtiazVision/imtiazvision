@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a Computer Information Systems graduate with technical exposure in cloud computing, SaaS, Web development, and
-microservices framework etc. I am enthusiastic about gaining knowledge, experience, and improving my skills. I believe in lifelong learning. I love learning new frameworks and data structures & algorithm during my free time and being up to date with the latest technologies/trends. When I'm not coding, you'll find me working out, biking, running or spending quality time with family/friends.
+microservices framework etc. I am enthusiastic about gaining knowledge, experience, and improving my skills. I believe in lifelong learning i.e. Continuous Integration/Continuous Development(CI/CD). I love learning new frameworks and data structures & algorithm during my free time and being up to date with the latest technologies/trends. When I'm not coding, you'll find me working out, biking, running or spending quality time with family/friends.
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Node.js, Typescript, Express API, MongoDB, SQL, Python, Java, Git etc.
 - 🎮 Hobbies: Bicycling 🚴‍♂️
