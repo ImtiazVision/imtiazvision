@@ -27,7 +27,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/imtiazvision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact&title_color=3498db" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096" />
 </a>
 
 <!-- ## Time spent on coding recently: -->
