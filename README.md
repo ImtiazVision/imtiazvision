@@ -91,7 +91,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   
 ![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision) -->
 
-For more information about me, check out [Imtiaz Ahmed](https://www.imtiazahmed.website/)
+  
+<footer>For more information about me, check out [Imtiaz Ahmed](https://www.imtiazahmed.website/)</footer>
    
 </div> 
 
