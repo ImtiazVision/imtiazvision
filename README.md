@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am a Computer Information Systems graduate with technical exposure in cloud computing, SaaS, Web development, and
-microservices framework etc. I am enthusiastic about gaining knowledge, experience, and improving my skills. I believe in lifelong 
+microservices framework etc. I am enthusiastic about gaining knowledge, experience, and improving my skills. I believe in lifelong learning. In my free time, I code and run for fun.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Node.js, Typescript, Python, Java, Git etc.
 - 🎮 Hobbies: Bicycling 🚴‍♂️
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiaz-ahmed247/) 
