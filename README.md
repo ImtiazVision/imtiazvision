@@ -19,7 +19,9 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Node.js, Typescript, Express API, MongoDB, SQL, Python, Java, Git etc.
 - 🎮 Hobbies: Bicycling 🚴‍♂️
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiaz-ahmed247/) 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/imtiaz-ahmed247/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## My Projects
 - [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers)
@@ -45,6 +47,4 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 
 For more information about me, check out [Imtiaz Ahmed](https://www.imtiazahmed.website/)
-<a href="https://www.linkedin.com/in/imtiaz-ahmed247/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
