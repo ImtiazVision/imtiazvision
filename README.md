@@ -26,7 +26,12 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 - [Portfolio Projects Source Codes](https://github.com/ImtiazVision/imtiazvision.github.io)
 
 ## Languages and Tools
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][blog]
+![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
 
 <a href="https://github.com/imtiazvision">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&show_icons=true&theme=tokyonight&title_color=3498db&bg_color=ffffff00&text_color=718096" />
