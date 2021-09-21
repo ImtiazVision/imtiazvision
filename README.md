@@ -24,7 +24,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-## My Projects
+<h2 align="center">My Projects</h2>
 - [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers)
 - [Portfolio Projects Source Codes](https://github.com/ImtiazVision/imtiazvision.github.io)
 
