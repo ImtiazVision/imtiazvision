@@ -77,7 +77,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   
 </div> 
 
-
+<div align="center" >
+  
 <a href="https://github.com/imtiazvision">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&show_icons=true&theme=tokyonight&title_color=3498db&bg_color=ffffff00&text_color=718096" />
 </a>
@@ -90,4 +91,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 
 For more information about me, check out [Imtiaz Ahmed](https://www.imtiazahmed.website/)
+  
+  
+</div> 
 
