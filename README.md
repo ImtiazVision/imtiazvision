@@ -22,7 +22,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiaz-ahmed247/) 
 
 ## My Projects
-- 
+- [Full Stack Angular Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers)
 
 ## Github Activities
 
