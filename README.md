@@ -30,8 +30,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact" />
 </a>
 
-## Time spent on coding recently:
-![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision)
+<!-- ## Time spent on coding recently: -->
+<!-- ![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision) -->
 
 
 
