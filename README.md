@@ -27,11 +27,11 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 ![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/imtiazvision">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/imtiazvision">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact" />
 </a>
 
 
