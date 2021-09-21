@@ -23,7 +23,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 ## My Projects
 - [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers)
-- [Portfolio Projets Source Code](https://github.com/ImtiazVision/imtiazvision.github.io)
+- [Portfolio Projects Source Codes](https://github.com/ImtiazVision/imtiazvision.github.io)
 
 ## Github Activities
 
