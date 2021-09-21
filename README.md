@@ -87,9 +87,9 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 </a>
 
 <!-- ## Time spent on coding recently: -->
- <h2 align="center">Time spent on coding recently:</h2>
+<!--  <h2 align="center">Time spent on coding recently:</h2>
   
-![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision)
+![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision) -->
 
 For more information about me, check out [Imtiaz Ahmed](https://www.imtiazahmed.website/)
    
