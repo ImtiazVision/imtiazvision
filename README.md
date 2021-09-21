@@ -21,7 +21,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiaz-ahmed247/) 
 
 ## Github Activities
-![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&show_icons=true&theme=dark)
+![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&show_icons=true&theme=merko)
 
 
 
