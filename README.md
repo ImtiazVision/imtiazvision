@@ -21,9 +21,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiaz-ahmed247/) 
 
 ## Github Activities
-![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact)
 
 ![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision)
 
@@ -32,6 +30,9 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 </a>
 <a href="https://github.com/imtiazvision">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact" />
+</a>
+<a href="https://github.com/imtiazvision">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision" />
 </a>
 
 
