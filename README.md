@@ -1,4 +1,5 @@
 ### Hi there 👋 This is Imtiaz 👨‍💻
+<h1 align="center"> Hi there 👋 This is Imtiaz 👨‍💻</h1>
 
 <!--
 **ImtiazVision/imtiazvision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
