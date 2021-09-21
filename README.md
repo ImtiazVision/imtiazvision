@@ -22,18 +22,14 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 ## Github Activities
 
-
-![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision)
-
 <a href="https://github.com/imtiazvision">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/imtiazvision">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact" />
 </a>
-<a href="https://github.com/imtiazvision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision" />
-</a>
+
+![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision)
 
 
 
