@@ -19,5 +19,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Node.js, Typescript, Python, Java, Git etc.
 - 🎮 Hobbies: Bicycling 🚴‍♂️
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imtiaz-ahmed247/) 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiazvision)](https://github.com/anuraghazra/github-readme-stats)
+
 
 For more information about me, check out [Imtiaz Ahmed](https://www.imtiazahmed.website/)
