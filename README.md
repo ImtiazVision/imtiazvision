@@ -34,6 +34,13 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 - [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers)
 - [Portfolio Projects Source Codes](https://github.com/ImtiazVision/imtiazvision.github.io)
 
+
+<h2 align="center">My skills include : </h2>
+  - Data Structures and Algorithms
+  - Problem Solving
+  - Full-stack MEAN Web Development
+  - Python Programming
+
 <h2 align="center">Languages and Tools </h2>
 <div align="center" >  
   
