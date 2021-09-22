@@ -33,7 +33,9 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 <div align="center" >
   
-<h2> [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers) 
+<h2> 
+  
+ [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers) 
   
  </h2>
 
