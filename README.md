@@ -36,6 +36,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 
 <h2 align="center">My skills include : </h2>
+
   - Data Structures and Algorithms
   - Problem Solving
   - Full-stack MEAN Web Development
