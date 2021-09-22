@@ -30,14 +30,11 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 </a>
 
 <h2 align="center">My Projects </h2>
-
-<div align="center" >
-  
-
   
 1. [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers) 
   
-
+<div align="center" >
+  
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -48,11 +45,12 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 ![image](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 
  </div>
- 
-<div align="center" >
+
   
 2. [Portfolio Projects Source Codes](https://github.com/ImtiazVision/imtiazvision.github.io)
 
+<div align="center" >
+  
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
