@@ -133,7 +133,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact&hide_border=true&title_color=3498db&bg_color=ffffff00&text_color=718096" />
 </a>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvision&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvision&theme=radical&hide_border=true)](https://github.com/ImtiazVision?tab=repositories)
 
 [![Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=imtiazvision&theme=react-dark)](https://github.com/ImtiazVision?tab=repositories)
 
