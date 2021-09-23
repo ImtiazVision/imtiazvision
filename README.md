@@ -118,8 +118,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 <!--   [![Repos Badge](https://badges.pufler.dev/repos/imtiazvision)](https://badges.pufler.dev)  -->
   </a>  
   
-  <a href="https://github.com/imtiazvision">
-  <img align="center" src="https://badges.pufler.dev/repos/imtiazvision" />
+  <a href="https://github.com/ImtiazVision?tab=repositories">
+  <img align="center" src="https://badges.pufler.dev/repos/imtiazvision" style="max-width: 100%;/>
   </a>
   
 </p>
