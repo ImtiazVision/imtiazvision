@@ -135,7 +135,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvision&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=imtiazvision&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=imtiazvision&theme=react-dark)](https://github.com/ImtiazVision?tab=repositories)
 
 
 <!-- ## Time spent on coding recently: -->
