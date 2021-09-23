@@ -132,6 +132,9 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 <a href="https://github.com/imtiazvision">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact&title_color=3498db&bg_color=ffffff00&text_color=718096" />
 </a>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvision)](https://git.io/streak-stats)
+
 
 <!-- ## Time spent on coding recently: -->
 <!--  <h2 align="center">Time spent on coding recently:</h2>
