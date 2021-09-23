@@ -138,10 +138,10 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 [![Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=imtiazvision&theme=react-dark)](https://github.com/ImtiazVision?tab=repositories)
 
 
-## Time spent on coding recently: 
+<!-- ## Time spent on coding recently: 
 <h2 align="center">Time spent on coding recently:</h2>
   
-![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision) 
+![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision)  -->
 
     
 <h3>  
