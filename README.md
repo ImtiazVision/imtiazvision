@@ -127,7 +127,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 <div align="center" >
   
 <a href="https://github.com/imtiazvision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=3498db&bg_color=ffffff00&text_color=718096" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&title_color=3498db&bg_color=ffffff00&text_color=718096&show_icons=true&custom_title=Gabriel%27s%20Github%20Stats&" />
 </a>
 <a href="https://github.com/imtiazvision">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact&hide_border=true&title_color=3498db&bg_color=ffffff00&text_color=718096" />
