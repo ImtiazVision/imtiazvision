@@ -137,6 +137,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   
 <h4 align="center"> <span style="color:blue"> My Lastest 31 days of Activities </span></h4>
   
+<span style="color: red;">text</span>.
+  
 [![Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=imtiazvision&theme=react-dark)](https://github.com/ImtiazVision?tab=repositories)
 <a href="https://github.com/ImtiazVision?tab=repositories">
   <img align="center" src="https://github.com/ImtiazVision/imtiazvision.github.io/blob/master/GitHub_Footer.png"/>
