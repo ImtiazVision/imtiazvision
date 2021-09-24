@@ -130,10 +130,10 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&theme=algolia&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/imtiazvision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact&hide_border=true&&theme=algolia&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact&hide_border=true&theme=algolia&show_icons=true" />
 </a>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvision&theme=radical&hide_border=true)](https://github.com/ImtiazVision?tab=repositories)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvision&theme=algolia&hide_border=true)](https://github.com/ImtiazVision?tab=repositories)
   
 <h3 align="center"> My Lastest 31 days of Activities</h3>
  
