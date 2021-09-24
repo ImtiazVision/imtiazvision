@@ -135,9 +135,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvision&theme=radical&hide_border=true)](https://github.com/ImtiazVision?tab=repositories)
   
-<h4 align="center"> <span style="color:blue"> My Lastest 31 days of Activities </span></h4>
-  
-<span style="color: red;">text</span>.
+<h3 align="center"> My Lastest 31 days of Activities</h3>
+ 
   
 [![Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=imtiazvision&theme=react-dark)](https://github.com/ImtiazVision?tab=repositories)
 <a href="https://github.com/ImtiazVision?tab=repositories">
