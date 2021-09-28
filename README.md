@@ -105,7 +105,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 <div align="center" >  
 
-<img src="https://github.com/ImtiazVision/imtiazvision.github.io/blob/master/Lehman_Logo.png"  width="190" height="45" />
+<img src="https://github.com/ImtiazVision/imtiazvision.github.io/blob/master/Lehman_Logo.png"  width="190" height="40" />
   
   
 ![image](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
