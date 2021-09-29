@@ -49,9 +49,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 ![image](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 
  </div>
-
-  
-2. [Portfolio Projects Source Codes] (https://github.com/ImtiazVision/imtiazvision.github.io)
+ 
+2. [Portfolio Projects Source Codes](https://github.com/ImtiazVision/imtiazvision.github.io)
 
 <p align="center" > Tech & Tools used </p>
 
