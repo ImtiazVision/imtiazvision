@@ -34,7 +34,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 <h2 align="center">My Projects </h2>
   
-<p align="center">1. [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers)</p>
+1. [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers)
   
 <p align="center"> Tech & Tools used </p>
 <div align="center" >
@@ -51,7 +51,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
  </div>
 
   
-2.   [Portfolio Projects Source Codes] (https://github.com/ImtiazVision/imtiazvision.github.io)
+2. [Portfolio Projects Source Codes] (https://github.com/ImtiazVision/imtiazvision.github.io)
 
 <p align="center" > Tech & Tools used </p>
 
