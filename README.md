@@ -5,7 +5,7 @@
   
 </h2>
 
-> Currently learning and developing the habit of gazing at the larger picture rather than focusing on individual pixels. 
+<p> > Currently learning and developing the habit of gazing at the larger picture rather than focusing on individual pixels. </p>
 
 <img align="right" src="https://camo.githubusercontent.com/e903b9f4e50e33043e87c030cd75b8eeeae127fdd8e36891a64aeffb5543b1bd/68747470733a2f2f73686976616d6b6170617369612d646576656c6f7065722d65646974696f6e2e617031362e666f7263652e636f6d2f6d79506f7274666f6c696f2f7265736f757263652f313632333332333738363030302f636f6465" width="230" data-canonical-src="https://shivamkapasia-developer-edition.ap16.force.com/myPortfolio/resource/1623323786000/code" style="max-width: 100%;">
 
