@@ -36,7 +36,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   
 1. [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers) 
   
-<h3> Tech & Tools used </h3>
+<h6> Tech & Tools used </h6>
 <div align="center" >
   
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
