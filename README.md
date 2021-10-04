@@ -64,6 +64,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 3. [Hotel Mannagement System](https://github.com/ImtiazVision/Hotel-Management-System)
 
+<p align="center" > Tech & Tools used </p>
+
 <div align="center" >
    
    ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
