@@ -30,7 +30,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
- > Currently learning and developing the habit of gazing at the larger picture rather than focusing on individual pixels. 
+ > Currently studying and building the habit of looking at the big picture rather than focusing on individual pixels.
 
 <h2 align="center">My Projects </h2>
   
