@@ -34,6 +34,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
  > Currently studying and building the habit of looking at the big picture rather than focusing on individual pixels.
 
 <h3 align="center" >Favorite Quotes : </h3>
+
 > We cannot comprehend perception until we consider what each perceptual inference is required for ecologically, as well as the computing difficulties involved in forming that inference.
 
 <h2 align="center">My Projects </h2>
