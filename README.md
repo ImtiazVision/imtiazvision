@@ -35,6 +35,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 <h3 align="center" >Favorite Quotes : </h3>
 
+> An educated person learns from his or her own errors, but a wise person learns from the mistakes of others.
+
 > We cannot comprehend perception until we consider what each perceptual inference is required for ecologically, as well as the computing difficulties involved in forming that inference.
 
 <h2 align="center">My Projects </h2>
