@@ -37,6 +37,10 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > An **educated** person learns from his or her own errors, but a **wise** person learns from the mistakes of others.
 
+> Failure is a new chance to start over with new thoughts and views.
+
+> Perspective is important since it determines our fate.
+
 > Things that appear to be too wonderful to be true are almost always true in life.
 
 > We cannot comprehend perception until we consider what each perceptual inference is required for ecologically, as well as the computing difficulties involved in forming that inference.
