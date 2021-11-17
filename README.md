@@ -35,7 +35,9 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 <h3 align="center" >Favorite Quotes : </h3>
 
->The capacity to be self-aware and understand oneself is one of the most important abilities to develop in our lives.
+> The capacity to be self-aware and understand oneself is one of the most important abilities to develop in our lives.
+
+> Grit and tenacity are extremely important in our lives because if we can get things done, we are all set to be successful. Be a doer and a go-getter, and the rest will take care of itself.
 
 > An **educated** person learns from his or her own errors, but a **wise** person learns from the mistakes of others.
 
