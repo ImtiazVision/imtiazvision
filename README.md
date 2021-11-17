@@ -47,6 +47,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > We can't rely on people to merely hand us things. If we want something worthwhile, we must be proactive; else, everyone else will have it.
 
+> Anything is learnable, and nothing is out of reach, if we just sit down, be patient, and start reading from the beginning.
+
 > Things that appear to be too wonderful to be true are almost always true in life.
 
 > We cannot comprehend perception until we consider what each perceptual inference is required for ecologically, as well as the computing difficulties involved in forming that inference.
