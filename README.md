@@ -43,7 +43,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Ideas should be introduced through empathic mirroring rather than being taught.
 
-> Our passion for what we do will encourage those around us.
+> Passion in what we do will motivate those around us by making an upfront promise while displaying genuine passion about what we are addressing.
 
 > Things that appear to be too wonderful to be true are almost always true in life.
 
