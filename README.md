@@ -37,6 +37,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > An **educated** person learns from his or her own errors, but a **wise** person learns from the mistakes of others.
 
+> Things we learn and competencies we acquire that seem utterly unrelated to one another frequently compliment one another.
+
 > Failure is a new chance to start over with fresh thoughts and views.
 
 > Perspective is important since it determines our fate.
