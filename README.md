@@ -41,6 +41,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Perspective is important since it determines our fate.
 
+> Ideas should be introduced through empathic mirroring rather than being taught.
+
 > Things that appear to be too wonderful to be true are almost always true in life.
 
 > We cannot comprehend perception until we consider what each perceptual inference is required for ecologically, as well as the computing difficulties involved in forming that inference.
