@@ -41,6 +41,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > An **educated** person learns from his or her own errors, but a **wise** person learns from the mistakes of others.
 
+> Continue to roll the dice since we can't control the results of our dice rolls, but we can control which dice we roll.
+
 > Things we learn and competencies we acquire that seem utterly unrelated to one another frequently compliment one another.
 
 > Failure is a new chance to start over with fresh thoughts and views.
