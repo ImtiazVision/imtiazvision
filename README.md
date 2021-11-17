@@ -47,6 +47,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > "What gets measured, gets controlled, and gets better." - Drucker, Peter
 
+> The quality of our communication is determined by how well we speak and write, as well as how much information we have, how much we practice with that knowledge, and, lastly, by our innate skill.
+
 <h2 align="center">My Projects </h2>
   
 1. [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers)
