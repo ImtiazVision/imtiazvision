@@ -45,6 +45,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Passion in what we do will motivate those around us by making an upfront promise while displaying genuine passion about what we are addressing.
 
+> We can't rely on people to merely hand us things. If we want something worthwhile, we must be proactive; else, everyone else will have it.
+
 > Things that appear to be too wonderful to be true are almost always true in life.
 
 > We cannot comprehend perception until we consider what each perceptual inference is required for ecologically, as well as the computing difficulties involved in forming that inference.
