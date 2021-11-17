@@ -43,6 +43,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Ideas should be introduced through empathic mirroring rather than being taught.
 
+> Our passion for what we do will encourage those around us.
+
 > Things that appear to be too wonderful to be true are almost always true in life.
 
 > We cannot comprehend perception until we consider what each perceptual inference is required for ecologically, as well as the computing difficulties involved in forming that inference.
