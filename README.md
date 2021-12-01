@@ -202,10 +202,10 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   <img align="center" src="https://github.com/ImtiazVision/imtiazvision.github.io/blob/master/Footer.png"/>
 </a>
 
-## Time spent on coding recently: 
+<!-- ## Time spent on coding recently: 
 <h2 align="center">Time spent on coding recently:</h2>
   
-![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision) 
+![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision)  -->
 
     
 <h3>  
