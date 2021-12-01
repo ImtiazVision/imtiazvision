@@ -35,7 +35,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 <h3 align="center" >Favorite Quotes : </h3>
 
-> Take action and follow your gut instincts rather than becoming mired in analysis paralysis. - myself aka Imtiaz
+> Take action and follow your gut instincts rather than becoming mired in analysis paralysis. - man in the mirror aka Imtiaz
 
 > The capacity to be self-aware and understand oneself is one of the most important abilities to develop in our lives.
 
