@@ -51,6 +51,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Perspective is important since it determines our fate.
 
+> Once we have accomplished what we set out to do, we should turn our attention to self-improvement, namely mental wellness and inner tranquility.
+
 > Intelligence is the ability to learn a model of the world so that we can build an internal model in our heads that represents the structure of everything we know around us. For example, this is a table, that's a coffee cup, and that's a gooseneck lamp etc. - Jeff Hawkins
 
 > Ideas should be introduced through empathic mirroring rather than being taught.
