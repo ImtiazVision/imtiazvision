@@ -200,9 +200,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
  
   
 [![Imtiaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=imtiazvision&theme=react-dark)](https://github.com/ImtiazVision?tab=repositories)
-<a href="https://github.com/ImtiazVision?tab=repositories">
-  <img align="center" src="https://github.com/ImtiazVision/imtiazvision.github.io/blob/master/Footer.png"/>
-  
+<!-- <a href="https://github.com/ImtiazVision?tab=repositories"> -->
+<!--   <img align="center" src="https://github.com/ImtiazVision/imtiazvision.github.io/blob/master/Footer.png"/> -->
   
 <a href="https://github.com/ImtiazVision?tab=repositories">
   <img align="center" src="https://github.com/ImtiazVision/imtiazvision.github.io/blob/master/Botanical_Garden_Footer.png"/>
