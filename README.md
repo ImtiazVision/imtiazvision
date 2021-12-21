@@ -32,6 +32,18 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 </a>
 
  > Currently studying and building the habit of looking at the big picture rather than focusing on individual pixels.
+ > Soft Skills that I do possess or would like to acquire are the followings : 
+ 
+      Communication
+      Teamwork
+      Detail-Oriented
+      Problem-Solving
+      Adaptability 
+      Time Management
+      Work Ethic 
+      Interpersonal Skills
+      Creativity
+      Servant Leadership
 
 <h3 align="center" >Favorite Quotes : </h3>
 
