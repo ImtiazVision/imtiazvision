@@ -51,8 +51,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Constant reinvestment of time and money is the route ahead in any endeavor, whether it is business, education, or the stock market.
 
-> "A manager functions as a guide. They gather a group of individuals and say, 'With you, I can ensure our success; I can point you in the right direction."
-- Arsene Wenger
+> "A manager functions as a guide. They gather a group of individuals and say, 'With you, I can ensure our success; I can point you in the right direction." Arsene Wenger
 
 > Take action and follow your gut instincts rather than becoming mired in analysis paralysis. 
 
