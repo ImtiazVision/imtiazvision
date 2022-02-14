@@ -55,6 +55,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Take action and follow your gut instincts rather than becoming mired in analysis paralysis. 
 
+> If you want to go swiftly, go alone. If you want to go far, go together. ~~ an african proverb
+
 > The capacity to be self-aware and understand oneself is one of the most important abilities to develop in our lives.
 
 > Grit and tenacity are extremely important in our lives because if we can get things done, we are all set to be successful. Be a doer and a go-getter, and the rest will take care of itself. Prioritize discipline over motivation. Form is transient, but class is eternal.
