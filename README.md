@@ -49,6 +49,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > A positive outlook is critical in all aspects of life, whether professional or personal. As a software engineer, we must cope with uncertainty, be inquisitive, experiment with new ways, and make trade-offs. As a result, we must cultivate a never-say-die attitude toward the tasks at hand. - Utsav <a href="https://www.linkedin.com/in/utsavized?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSCcXfDckQ0m6Q70xu07srg%3D%3D"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+> Performance 10%, Image 30%, Exposure 60% accounts for career success ~~ Harvey Coleman
+
 > Constant reinvestment of time and money is the route ahead in any endeavor, whether it is business, education, or the stock market.
 
 > "A manager functions as a guide. They gather a group of individuals and say, 'With you, I can ensure our success; I can point you in the right direction." Arsene Wenger
