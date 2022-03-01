@@ -71,6 +71,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Failure is a new chance to start over with fresh thoughts and views.
 
+> A negative attitude is analogous to a flat tire. You're not going to go very far until you modify it.
+
 > Perspective is important since it determines our fate.
 
 > Once we have accomplished what we set out to do, we should turn our attention to self-improvement, namely mental wellness and inner tranquility.
