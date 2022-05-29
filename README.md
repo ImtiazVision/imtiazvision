@@ -59,6 +59,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > If you want to go swiftly, go alone. If you want to go far, go together. ~~ an african proverb
 
+> "If you have more than three priorities, then you don't have any at all." - Jim Collins
+
 > The capacity to be self-aware and understand oneself is one of the most important abilities to develop in our lives.
 
 > Grit and tenacity are extremely important in our lives because if we can get things done, we are all set to be successful. Be a doer and a go-getter, and the rest will take care of itself. Prioritize discipline over motivation. Form is transient, but class is eternal.
