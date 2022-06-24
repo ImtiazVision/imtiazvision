@@ -25,7 +25,7 @@ I am a Computer Information Systems graduate with technical exposure in cloud co
 microservices framework etc. I am enthusiastic about gaining knowledge, experience, and improving my skills. I believe in lifelong learning i.e. Continuous Integration/Continuous Development(CI/CD). I love learning new frameworks and data structures & algorithm during my free time and being up to date with the latest technologies/trends. When I'm not coding, you'll find me working out, biking, running or spending quality time with family/friends.
 
 - 🌱 I’m currently learning JavaScript, Angular, Node.js, Typescript, Python, Java, Git etc.
-- 🎮 Hobbies: Bicycling 🚴‍♂️ Running 🏃‍♂️ Typing 
+- 🎮 Hobbies: Bicycling 🚴‍♂️ Exercising 🏋️‍♂️ Typing 
 <span> <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width: 100%;"> </span>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/imtiaz-ahmed247/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
