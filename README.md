@@ -69,8 +69,6 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Continue to roll the dice since we can't control the results of our dice rolls, but we can control which dice we roll.
 
-> Things we learn and competencies we acquire that seem utterly unrelated to one another frequently compliment one another.
-
 > Failure is a new chance to start over with fresh thoughts and views.
 
 > A negative attitude is analogous to a flat tire. You're not going to go very far until you modify it.
@@ -85,15 +83,11 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Passion in what we do will motivate those around us by making an upfront promise while displaying genuine passion about what we are addressing.
 
-> We can't rely on people to merely hand us things. If we want something worthwhile, we must be proactive; else, everyone else will have it.
-
 > Anything is learnable, and nothing is out of reach, if we just sit down, be patient, and start reading from the beginning.
 
 > Things that appear to be too wonderful to be true are almost always true in life.
 
 > We cannot comprehend perception until we consider what each perceptual inference is required for ecologically, as well as the computing difficulties involved in forming that inference.
-
-> "What gets measured, gets controlled, and gets better." - Drucker, Peter
 
 > The quality of our communication is determined by how well we speak and write, as well as how much information we have, how much we practice with that knowledge, and, lastly, by our innate skill.
 
