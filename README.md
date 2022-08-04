@@ -83,8 +83,6 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Anything is learnable, and nothing is out of reach, if we just sit down, be patient, and start reading from the beginning.
 
-> Things that appear to be too wonderful to be true are almost always true in life.
-
 > We cannot comprehend perception until we consider what each perceptual inference is required for ecologically, as well as the computing difficulties involved in forming that inference.
 
 > The quality of our communication is determined by how well we speak and write, as well as how much information we have, how much we practice with that knowledge, and, lastly, by our innate skill.
