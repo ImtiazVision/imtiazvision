@@ -81,8 +81,6 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Anything is learnable, and nothing is out of reach, if we just sit down, be patient, and start reading from the beginning.
 
-> The quality of our communication is determined by how well we speak and write, as well as how much information we have, how much we practice with that knowledge, and, lastly, by our innate skill.
-
 <h2 align="center">My Projects </h2>
   
 1. [Full Stack Angular Capstone Project on Online Shopping Site Grocers](https://github.com/CapstoneProject2021G1/Grocers)
