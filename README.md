@@ -63,8 +63,6 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > An **educated** person learns from his or her own errors, but a **wise** person learns from the mistakes of others.
 
-> Continue to roll the dice since we can't control the results of our dice rolls, but we can control which dice we roll.
-
 > Failure is a new chance to start over with fresh thoughts and views.
 
 > A negative attitude is analogous to a flat tire. You're not going to go very far until you modify it.
