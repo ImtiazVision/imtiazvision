@@ -53,8 +53,6 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Constant reinvestment of time and money is the route ahead in any endeavor, whether it is business, education, or the stock market.
 
-> Take action and follow your gut instincts rather than becoming mired in analysis paralysis. 
-
 > If you want to go swiftly, go alone. If you want to go far, go together. ~~ an african proverb
 
 > "If you have more than three priorities, then you don't have any at all." - Jim Collins
