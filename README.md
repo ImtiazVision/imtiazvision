@@ -71,8 +71,6 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Ideas should be introduced through empathic mirroring rather than being taught.
 
-> Passion in what we do will motivate those around us by making an upfront promise while displaying genuine passion about what we are addressing.
-
 > Anything is learnable, and nothing is out of reach, if we just sit down, be patient, and start reading from the beginning.
 
 <h2 align="center">My Projects </h2>
