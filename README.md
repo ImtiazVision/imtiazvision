@@ -65,8 +65,6 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Failure is a new chance to start over with fresh thoughts and views.
 
-> A negative attitude is analogous to a flat tire. You're not going to go very far until you modify it.
-
 > Perspective is important since it determines our fate.
 
 > Intelligence is the ability to learn a model of the world so that we can build an internal model in our heads that represents the structure of everything we know around us. For example, this is a table, that's a coffee cup, and that's a gooseneck lamp etc. - Jeff Hawkins
