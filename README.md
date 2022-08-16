@@ -173,7 +173,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   
 </div> 
 
-<p align="center">
+<!-- <p align="center">
   <a href="#"><img align="center" src="https://camo.githubusercontent.com/1694ceae0349778df26f2575fc35a5ca4db466dfc15d6c8d94802629d084c194/68747470733a2f2f6261646765732e7075666c65722e6465762f7669736974732f6a61636b77696c6c69616d677261792f6a61636b77696c6c69616d67726179" data-canonical-src="https://badges.pufler.dev/visits/imtiazvision">
     
 <!--   [![Repos Badge](https://badges.pufler.dev/repos/imtiazvision)](https://badges.pufler.dev)  -->
@@ -182,8 +182,8 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   <a href="https://github.com/ImtiazVision?tab=repositories">
   <img align="center" src="https://badges.pufler.dev/repos/imtiazvision"/>
   </a>
-  
-</p>
+   
+</p> -->
 
 <div align="center" >
   
