@@ -51,8 +51,6 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 
 > Performance 10%, Image 30%, Exposure 60% accounts for career success ~~ Harvey Coleman
 
-> Constant reinvestment of time and money is the route ahead in any endeavor, whether it is business, education, or the stock market.
-
 > If you want to go swiftly, go alone. If you want to go far, go together. ~~ an african proverb
 
 > "If you have more than three priorities, then you don't have any at all." - Jim Collins
