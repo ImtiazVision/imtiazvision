@@ -141,9 +141,9 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 ![image](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![image](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+<!-- ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
+<!-- ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) -->
+<!-- ![image](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) -->
 <!-- ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
@@ -179,7 +179,7 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiazvision&count_private=true&theme=algolia&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/imtiazvision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact&hide=html,scss&hide_border=true&theme=algolia&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazvision&layout=compact&hide=scss&hide_border=true&theme=algolia&show_icons=true" />
 </a>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imtiazvision&theme=algolia&hide_border=true)](https://github.com/ImtiazVision?tab=repositories)
