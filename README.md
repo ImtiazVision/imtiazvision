@@ -201,14 +201,6 @@ microservices framework etc. I am enthusiastic about gaining knowledge, experien
 <h2 align="center">Time spent on coding recently:</h2>
   
 ![Imtiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imtiazvision)  -->
-
-    
-<h3>  
-  
-  For more information about me, check out [Imtiaz Ahmed](https://www.imtiazahmed.website/) 
-  
- </h3>
-  
  
    
 </div>
